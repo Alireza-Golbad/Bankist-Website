@@ -2,3 +2,7 @@
 
 ///////////////////////////////////////
 // Modal window
+console.log(smile());
+function smile() {
+  return ':)';
+}
