@@ -533,3 +533,39 @@ h4 {
   font-size: 1.9rem;
   padding: 2rem 5rem;
 }
+
+/* $$$$$$$$$$$$$$$$$$$$$$ Footer $$$$$$$$$$$$$$$$$$$$$$$$$ */
+.footer {
+  padding: 10rem 3rem;
+  background-color: #3f4046;
+}
+
+.footer_nav {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.footer_item {
+  margin-right: 4rem;
+}
+
+.footer_link {
+  font-size: 1.6rem;
+  color: #eee;
+  text-decoration: none;
+}
+
+.footer_logo {
+  height: 5rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5rem;
+}
+
+.footer_copyright {
+  font-size: 1.4rem;
+  color: #aaa;
+  text-align: center;
+}
